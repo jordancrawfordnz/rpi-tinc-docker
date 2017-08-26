@@ -7,4 +7,5 @@ RUN set -xe && apk add -U tinc && rm -rf /var/cache/apk/*
 EXPOSE 655/tcp 655/udp
 VOLUME /etc/tinc
 
-CMD tincd --no-detach 
+ENTRYPOINT ["tincd"]
+CMD ["--no-detach"]
