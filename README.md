@@ -11,7 +11,7 @@ This image was based off [jenserat/tinc](https://hub.docker.com/r/jenserat/tinc/
 
 This image is for the Raspberry Pi. If you need a x86 tinc image, [jenserat/tinc](https://hub.docker.com/r/jenserat/tinc/) is my personal favorite.
 
-### [Using this container as part of a Raspberry Pi home server without portforwarding](https://jordancrawford.kiwi/home-server-without-portforward/)
+### [Using this container as part of a Raspberry Pi home server without portforwarding](https://jc.kiwi/home-server-without-portforward/)
 
 ## Building
 Run ``docker build -t jordancrawford/rpi-tinc .``
