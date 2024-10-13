@@ -1,6 +1,4 @@
-[View on Docker Hub](https://hub.docker.com/r/jordancrawford/rpi-tinc/)
-
-[View on GitHub](https://github.com/jordancrawfordnz/rpi-tinc-docker)
+**This repo is archived.** It's not being maintained and may no longer work. I recommend installing the package directly instead.
 
 ---
 
